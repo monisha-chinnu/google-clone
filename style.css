@@ -85,7 +85,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 60px 50px 200px 50px;
+    padding: 73px 50px 200px 50px;
 }
 #img-logo{
     width: 300px;
@@ -154,8 +154,6 @@ header{
 footer{
     background-color: #f2f2f2;
     height: 100px;
-    padding-bottom: 100px;
-
 }
 .footer-content{
     display: flex;
